@@ -51,7 +51,7 @@ Esta API foi desenvolvida como parte do processo seletivo para o LAPES - Laborat
 > uvicorn main:app --reload
 - E acesse a API na porta http://127.0.0.1:8000
 
-Você também pode acessar a documentação interativa nativa SwaggerAPI do FastAPI utilizando
+Você também pode acessar a documentação interativa SwaggerAPI utilizando
 > http://127.0.0.1:8000/docs
 
 
