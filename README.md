@@ -15,6 +15,10 @@ Esta API foi desenvolvida como parte do processo seletivo para o LAPES - Laborat
 
 ## Features:
 
+### Root:
+- Rota: ./
+- Mostra uma mensagem de boas vindas à API.
+  
 ### Listar Startups:
 - Rota: ./startups/{page_num}
 - Retorna uma lista paginada de startups.
@@ -45,6 +49,8 @@ Esta API foi desenvolvida como parte do processo seletivo para o LAPES - Laborat
 ## Como Executar
 - Clone o Repositório:
 > git clone https://github.com/Radicrow/ProjetoLapes2024.git
+>
+> cd ProjetoLapes2024
 - Crie e ative o Venv
 > python3 -m venv .venv
 > 
