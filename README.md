@@ -38,6 +38,10 @@ Esta API foi desenvolvida como parte do processo seletivo para o LAPES - Laborat
 - Rota: ./startups/state/{state_code}
 - Retorna todas as startups localizadas em um estado específico.
 
+## Pré-Requisitos
+- Python 3.8 ou superior
+- pip (Python package installer)
+
 ## Como Executar
 - Clone o Repositório:
 > git clone https://github.com/Radicrow/ProjetoLapes2024.git
