@@ -47,7 +47,8 @@ Esta API foi desenvolvida como parte do processo seletivo para o LAPES - Laborat
 > git clone https://github.com/Radicrow/ProjetoLapes2024.git
 - Crie e ative o Venv
 > python3 -m venv .venv
-> venv\Scripts\activate
+> 
+> .venv\Scripts\activate
 - Instale as dependêcias listadas no arquivo "requirements.txt"
 > pip install -r requirements.txt
 - Coloque o arquivo CSV  contendo os dados das startups na pasta do projeto.
